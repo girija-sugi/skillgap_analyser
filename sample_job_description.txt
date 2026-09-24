@@ -1,0 +1,25 @@
+Junior Data Analyst / Python Developer - NovaTech Analytics
+
+We are hiring a Junior Data Analyst / Python Developer to join our growing
+analytics team. You will work with real business data, build small internal
+tools, and help turn raw numbers into decisions.
+
+Responsibilities:
+- Write clean Python code for data cleaning, transformation and analysis.
+- Query and manage data using SQL.
+- Use pandas and numpy for data analysis, and build clear data visualization
+  dashboards in Power BI and Excel for stakeholders.
+- Apply basic machine learning techniques to support forecasting and
+  segmentation projects.
+- Build and maintain small internal REST API endpoints using Flask.
+- Use Git for version control and work within an agile team, contributing to
+  sprint planning and reviews.
+
+Requirements:
+- Strong problem solving skills and comfort working with ambiguous,
+  messy data.
+- Good communication skills - able to explain technical results to
+  non-technical stakeholders.
+- Strong teamwork - this role works closely with product and business teams.
+- 0-2 years experience; internships and strong academic/hackathon projects
+  are welcome.
